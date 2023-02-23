@@ -1,0 +1,11 @@
+pip
+numpy
+sympy
+seaborn
+matplotlib
+pandas
+scipy
+scikit-learn
+statsmodels
+streamlit
+streamlit-aggrid
